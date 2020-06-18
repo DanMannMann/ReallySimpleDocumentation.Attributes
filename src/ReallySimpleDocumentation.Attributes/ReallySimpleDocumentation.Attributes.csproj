@@ -2,6 +2,20 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <RootNamespace>Marsman.ReallySimpleDocumentation.Attributes</RootNamespace>
+    <PackageId>Marsman.ReallySimpleDocumentation.Attributes</PackageId>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Marsman</Authors>
+    <Company>Marsman</Company>
+    <Product>Marsman.ReallySimpleDocumentation.Attributes</Product>
+    <PackageProjectUrl>https://github.com/DanMannMann/ReallySimpleDocumentation</PackageProjectUrl>
+    <PackageIconUrl>https://umbracocodefirstdocs.azurewebsites.net/icons/marsman.png</PackageIconUrl>
+    <RepositoryUrl>https://github.com/DanMannMann/ReallySimpleDocumentation</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Version>1.0.0</Version>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
   </PropertyGroup>
 
 </Project>
